@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**tatv047/tatv047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m Utkarsh Dev,a ML developer currently working on exciting projects.
+- 🌱 My current area of interests lies in business application of Deep learning model,especially LLMs.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+
 -->
