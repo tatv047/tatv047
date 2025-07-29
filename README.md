@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/utkarshdev047/)
   - [Email : utkarshdev047@gmail.com](mailto:utkarshdev047@gmail.com)
-  - [X/Twitter]((https://x.com/tatv_047))
+  - [X/Twitter](https://x.com/tatv_047)
 
 
 
