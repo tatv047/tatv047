@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m Utkarsh Dev,a ML developer currently working on exciting projects.
-- 🌱 My current area of interests lies in business application of Deep learning model,especially LLMs.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m Utkarsh Dev,a full stack Machine Learning developer, currently working on exciting projects.
+- 🌱 My current area of interests lies in real world applications of Deep learning,especially LLMs.
+- 👯 I’m open to internship and full-time opportunities as Data Analyst and Machine Learning Engineer. I am also available for freelance projects.
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/utkarshdev047/)
+  - [Email : utkarshdev047@gmail.com](mailto:utkarshdev047@gmail.com) 
 
 
 
